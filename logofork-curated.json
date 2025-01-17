@@ -4,85 +4,30 @@
     "name": "3M Wordmark",
     "logo": "https://cdn.worldvectorlogo.com/logos/3m-wordmark-2.svg"
   },
-  "4k": {
-    "id": "4k",
-    "name": "4k",
-    "logo": "https://cdn.worldvectorlogo.com/logos/4k.svg"
-  },
   "500px": {
     "id": "500px",
     "name": "500px",
     "logo": "https://cdn.worldvectorlogo.com/logos/500px.svg"
-  },
-  "7up": {
-    "id": "7up",
-    "name": "7Up",
-    "logo": "https://cdn.worldvectorlogo.com/logos/7up.svg"
-  },
-  "7-eleven": {
-    "id": "7-eleven",
-    "name": "7 Eleven",
-    "logo": "https://cdn.worldvectorlogo.com/logos/7-eleven.svg"
   },
   "8x8-1": {
     "id": "8x8-1",
     "name": "8x8",
     "logo": "https://cdn.worldvectorlogo.com/logos/8x8-1.svg"
   },
-  "99designs": {
-    "id": "99designs",
-    "name": "99designs",
-    "logo": "https://cdn.worldvectorlogo.com/logos/99designs.svg"
-  },
   "9gag": {
     "id": "9gag",
     "name": "9GAG",
     "logo": "https://cdn.worldvectorlogo.com/logos/9gag.svg"
-  },
-  "xbox-360-2": {
-    "id": "xbox-360-2",
-    "name": "Xbox 360",
-    "logo": "https://cdn.worldvectorlogo.com/logos/xbox-360-2.svg"
   },
   "xbox-game-pass-2020-1": {
     "id": "xbox-game-pass-2020-1",
     "name": "Xbox Game Pass 2020",
     "logo": "https://cdn.worldvectorlogo.com/logos/xbox-game-pass-2020-1.svg"
   },
-  "xbox-live-1": {
-    "id": "xbox-live-1",
-    "name": "Xbox Live",
-    "logo": "https://cdn.worldvectorlogo.com/logos/xbox-live-1.svg"
-  },
-  "yamaha-2-1": {
-    "id": "yamaha-2-1",
-    "name": "Yamaha",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yamaha-2-1.svg"
-  },
-  "youtube-2": {
-    "id": "youtube-2",
-    "name": "YouTube",
-    "logo": "https://cdn.worldvectorlogo.com/logos/youtube-2.svg"
-  },
-  "youporn": {
-    "id": "youporn",
-    "name": "Youporn",
-    "logo": "https://cdn.worldvectorlogo.com/logos/youporn.svg"
-  },
   "yamaha-12": {
     "id": "yamaha-12",
     "name": "Yamaha Corporation",
     "logo": "https://cdn.worldvectorlogo.com/logos/yamaha-12.svg"
-  },
-  "youtube": {
-    "id": "youtube",
-    "name": "YouTube",
-    "logo": "https://cdn.worldvectorlogo.com/logos/youtube.svg"
-  },
-  "yves-saint-laurent": {
-    "id": "yves-saint-laurent",
-    "name": "Yves Saint Laurent",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yves-saint-laurent.svg"
   },
   "yokohama-logo": {
     "id": "yokohama-logo",
@@ -104,70 +49,20 @@
     "name": "Yahoo",
     "logo": "https://cdn.worldvectorlogo.com/logos/yahoo-7.svg"
   },
-  "yelp": {
-    "id": "yelp",
-    "name": "Yelp",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yelp.svg"
-  },
-  "ymca-3": {
-    "id": "ymca-3",
-    "name": "YMCA",
-    "logo": "https://cdn.worldvectorlogo.com/logos/ymca-3.svg"
-  },
   "youtube-music-1": {
     "id": "youtube-music-1",
     "name": "YouTube Music",
     "logo": "https://cdn.worldvectorlogo.com/logos/youtube-music-1.svg"
-  },
-  "yahoo": {
-    "id": "yahoo",
-    "name": "Yahoo",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yahoo.svg"
   },
   "yahoo-icon": {
     "id": "yahoo-icon",
     "name": "Yahoo! icon",
     "logo": "https://cdn.worldvectorlogo.com/logos/yahoo-icon.svg"
   },
-  "yelp-icon": {
-    "id": "yelp-icon",
-    "name": "Yelp icon",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yelp-icon.svg"
-  },
-  "yamaha-motor": {
-    "id": "yamaha-motor",
-    "name": "Yamaha Motor",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yamaha-motor.svg"
-  },
-  "yokohama-tires": {
-    "id": "yokohama-tires",
-    "name": "Yokohama Tires",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yokohama-tires.svg"
-  },
-  "youtube-for-kids": {
-    "id": "youtube-for-kids",
-    "name": "YouTube for Kids",
-    "logo": "https://cdn.worldvectorlogo.com/logos/youtube-for-kids.svg"
-  },
   "yandex-ru": {
     "id": "yandex-ru",
     "name": "Yandex Ru",
     "logo": "https://cdn.worldvectorlogo.com/logos/yandex-ru.svg"
-  },
-  "yii": {
-    "id": "yii",
-    "name": "Yii",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yii.svg"
-  },
-  "yonex": {
-    "id": "yonex",
-    "name": "Yonex",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yonex.svg"
-  },
-  "yale": {
-    "id": "yale",
-    "name": "Yale",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yale.svg"
   },
   "youku-com": {
     "id": "youku-com",
@@ -184,24 +79,9 @@
     "name": "Yarn",
     "logo": "https://cdn.worldvectorlogo.com/logos/yarn.svg"
   },
-  "youtube-kids-2": {
-    "id": "youtube-kids-2",
-    "name": "Youtube Kids",
-    "logo": "https://cdn.worldvectorlogo.com/logos/youtube-kids-2.svg"
-  },
   "youtube-shorts-1": {
     "id": "youtube-shorts-1",
     "name": "YouTube Shorts",
     "logo": "https://cdn.worldvectorlogo.com/logos/youtube-shorts-1.svg"
-  },
-  "yandex": {
-    "id": "yandex",
-    "name": "Yandex",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yandex.svg"
-  },
-  "yeti": {
-    "id": "yeti",
-    "name": "Yeti",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yeti.svg"
   }
 }
