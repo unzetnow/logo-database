@@ -59,11 +59,6 @@
     "name": "Yahoo! icon",
     "logo": "https://cdn.worldvectorlogo.com/logos/yahoo-icon.svg"
   },
-  "yandex-ru": {
-    "id": "yandex-ru",
-    "name": "Yandex Ru",
-    "logo": "https://cdn.worldvectorlogo.com/logos/yandex-ru.svg"
-  },
   "youku-com": {
     "id": "youku-com",
     "name": "Youku",
@@ -74,10 +69,35 @@
     "name": "Y Combinator",
     "logo": "https://cdn.worldvectorlogo.com/logos/y-combinator.svg"
   },
+  "apple-14": {
+    "id": "apple-14",
+    "name": "Apple",
+    "logo": "https://cdn.worldvectorlogo.com/logos/apple-14.svg"
+  },
+  "microsoft-5": {
+    "id": "microsoft-5",
+    "name": "Microsoft",
+    "logo": "https://cdn.worldvectorlogo.com/logos/microsoft-5.svg"
+  },
+  "microsoft-6": {
+    "id": "microsoft-6",
+    "name": "Microsoft",
+    "logo": "https://cdn.worldvectorlogo.com/logos/microsoft-6.svg"
+  },
+  "microsoft-centered": {
+    "id": "microsoft-centered",
+    "name": "Microsoft centered",
+    "logo": "https://cdn.worldvectorlogo.com/logos/microsoft-centered.svg"
+  },
   "yarn": {
     "id": "yarn",
     "name": "Yarn",
     "logo": "https://cdn.worldvectorlogo.com/logos/yarn.svg"
+  },
+  "apple-arcade": {
+    "id": "apple-arcade",
+    "name": "Apple Arcade",
+    "logo": "https://cdn.worldvectorlogo.com/logos/apple-arcade.svg"
   },
   "youtube-shorts-1": {
     "id": "youtube-shorts-1",
