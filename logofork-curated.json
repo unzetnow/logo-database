@@ -44,6 +44,16 @@
     "name": "Yammer",
     "logo": "https://cdn.worldvectorlogo.com/logos/yammer-1.svg"
   },
+  "youtube-6": {
+    "id": "youtube-6",
+    "name": "YouTube",
+    "logo": "https://cdn.worldvectorlogo.com/logos/youtube-6.svg"
+  },
+  "drive-new-logo-1": {
+    "id": "drive-new-logo-1",
+    "name": "Drive New Logo",
+    "logo": "https://cdn.worldvectorlogo.com/logos/drive-new-logo-1.svg"
+  },
   "yahoo-7": {
     "id": "yahoo-7",
     "name": "Yahoo",
@@ -98,6 +108,16 @@
     "id": "apple-arcade",
     "name": "Apple Arcade",
     "logo": "https://cdn.worldvectorlogo.com/logos/apple-arcade.svg"
+  },
+  "android-wordmark": {
+    "id": "android-wordmark",
+    "name": "Android Wordmark",
+    "logo": "https://cdn.worldvectorlogo.com/logos/android-wordmark.svg"
+  },
+  "alphabet": {
+    "id": "alphabet",
+    "name": "Alphabet",
+    "logo": "https://cdn.worldvectorlogo.com/logos/alphabet.svg"
   },
   "youtube-shorts-1": {
     "id": "youtube-shorts-1",
